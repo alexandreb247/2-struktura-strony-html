@@ -1,0 +1,38 @@
+h2, h3{
+    background: #4CBB17;
+    text-align: center;
+}
+#title {background: orange;
+    text-align: left;
+
+}
+
+#about, #contact {
+    background: #4CBB17;
+}
+footer {
+    background: grey;
+    text-align: center;
+}
+
+#menu {
+    text-align: left;
+  }
+  
+  #menu .menu-item {
+    display: inline-block;
+    padding: 25px;
+    list-style: none;
+  }
+  
+  #menu ul {
+    margin: 0;
+  }
+  
+  #menu .menu-item a:hover{
+    color: #999;
+  }
+  #header {
+    position: relative;
+    text-align: center;
+  }
